@@ -7,7 +7,7 @@ This API manages instruments, their names, prices, categories, and types.
 First, you'll need to login to your Github account and fork this repo:
 
 ```
-https://github.com/jrs-innovation-center/instruments-api-mock-exam
+https://github.com/cwebsterz/instruments-api-mock-exam
 ```
 
 Then, clone the fork locally and install the dependencies. Follow these steps:
